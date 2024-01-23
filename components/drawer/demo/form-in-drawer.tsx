@@ -18,7 +18,7 @@ const App: React.FC = () => {
   return (
     <>
       <Button type="primary" onClick={showDrawer} icon={<PlusOutlined />}>
-        New account
+        123
       </Button>
       <Drawer
         title="Create a new account"
